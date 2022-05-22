@@ -1,5 +1,3 @@
-Das sind die Automatisch eingestellten Kernel parameter
-
 Iteration	GP_regression.Mat52.variance	GP_regression.Mat52.lengthscale	GP_regression.Gaussian_noise.variance
 1.0	0.9996551154547324	0.6040018217374067	0.0003449606543110987
 2.0	0.9996551154547324	0.6040018217374067	0.0003449606543110987
